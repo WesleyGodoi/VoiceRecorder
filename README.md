@@ -1,4 +1,4 @@
-# Voice Memo App Using HTML5, Media Recorder and getUserMedia APIs
+# Voice Recorder App Using HTML5, Media Recorder and getUserMedia APIs
 
 ## Running
 
